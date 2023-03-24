@@ -26,9 +26,9 @@ header h1 a {
   background:url('../img/logo_white_type_02.png');
   font-size:0;
 }
-#gnb { padding-left:250px; border:1px solid red; } /*수정*/
+#gnb { padding-left:250px; } /*수정*/
 
-#gnb > ul  { position:relative; border:1px solid orange;  } /*수정*/
+#gnb > ul  { position:relative;  } /*수정*/
 #gnb > ul > li  { float:left; margin:0 15px; }     /*수정*/
 #gnb > ul > li > a {          /*수정*/  
   display:block; 
